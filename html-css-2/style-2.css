@@ -1,0 +1,71 @@
+header {
+    height: 10vh;
+    width: 100%;
+    background-color: #88FCD6;
+}
+
+.main {
+    width: 100%;
+    height: 40vh;
+    border: dotted;
+    border-color: #AAA8C8;
+}
+
+.rectangle-1 {
+    width: 300px;
+    height: 120px;
+    background-color: #47187F;
+    border: solid;
+    border-color: #FA211C;
+    display: inline-block;
+}
+
+.rectangle-2 {
+    width: 120px;
+    height: 120px;
+    background-color: #0135F7;
+    border: solid;
+    border-color: #01020A;
+    display: inline-block;
+    box-shadow: 3px 1px 1px #01020A;
+}
+
+.rectangle-3 {
+    width: 300px;
+    height: 300px;
+    background-color: #D77493;
+    border: solid;
+    border-color: #01020A;
+    display: inline-block;
+}
+
+.snowman-top {
+    width: 120px;
+    height: 120px;
+    border: solid;
+    border-color: #000000;
+    border-radius: 50%;
+    background-color: #FFFFFF;
+}
+
+.snowman-middle {
+    width: 170px;
+    height: 170px;
+    border: solid;
+    border-color: #000000;
+    border-radius: 50%;
+    background-color: #FFFFFF;
+}
+
+.snowman-bottom {
+    width: 220px;
+    height: 120px;
+    border: solid;
+    border-color: #000000;
+    border-radius: 50%;
+    background-color: #FFFFFF;
+} 
+
+.bigScaryBoxProbablyWontFinish {
+
+}
