@@ -84,5 +84,21 @@ header {
 } 
 
 .bigScaryBoxProbablyWontFinish {
+    width: 250px;
+    height: 250px;
+    background-color: #F5F4DE;
+    border: solid;
+    border-color: #000000;
+    margin: 5px;
+    position: absolute;
+}
 
+.smallerBoxStillScary {
+    width: 200px;
+    height: 200px;
+    background-color: #1D7D19;
+    border: solid;
+    border-color: #000000;
+    border-radius: 50%;
+    position: absolute;
 }
