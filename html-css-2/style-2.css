@@ -39,9 +39,26 @@ header {
     display: inline-block;
 }
 
+.coal-top {
+    width: 20px;
+    height: 20px;
+    padding: 5px;
+}
+.coal-middle {
+    width: 20px;
+    height: 20px;
+    padding: 5px;
+}
+
+.carrot {
+    width: 20px;
+    height: 20px;
+    padding: 5px 25px;
+}
+
 .snowman-top {
-    width: 120px;
-    height: 120px;
+    width: 70px;
+    height: 70px;
     border: solid;
     border-color: #000000;
     border-radius: 50%;
@@ -49,8 +66,8 @@ header {
 }
 
 .snowman-middle {
-    width: 170px;
-    height: 170px;
+    width: 110px;
+    height: 110px;
     border: solid;
     border-color: #000000;
     border-radius: 50%;
@@ -58,8 +75,8 @@ header {
 }
 
 .snowman-bottom {
-    width: 220px;
-    height: 120px;
+    width: 170px;
+    height: 170px;
     border: solid;
     border-color: #000000;
     border-radius: 50%;
