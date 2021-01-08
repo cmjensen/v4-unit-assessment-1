@@ -1,0 +1,55 @@
+body {
+    margin: 0;
+    background-color: #FFFFFF;
+    height: 100vh;
+    width: 100%;
+}
+
+h1 {
+    font-size: 3em;
+}
+
+header {
+    height: 10vh;
+    width: 100%;
+    background-color: #EC8282;
+    display: inline-block;
+}
+
+nav {
+    font-size: 2em;
+    display:inline-block;
+}
+
+#main-heading {
+    display: inline-block;
+}
+
+section {
+    width: 100%;
+    height: 40vh;
+    border: dotted;
+    border-radius: 1px;
+    padding: 10px;
+    margin: 10px;
+    box-sizing: border-box;
+    box-shadow: none;
+}
+
+p {
+    text-align: left;
+}
+
+img {
+    height: 150px;
+    width: 150px; 
+    clear: none; 
+}
+
+.html-logo {
+    float: left;
+}
+
+.css-logo {
+    float: right;
+}
